@@ -4,9 +4,9 @@
 <br>
 <br>
 
-
-<img src="readme-lib\world.png" alt="Logo" width="80%"/>
-
+<p align='center'>
+  <img src="readme-lib\world.png" alt="Logo" width="80%"/>
+</p>
 
 
 <br>
@@ -42,7 +42,9 @@ The ‘Avoid obstacle’ state is triggered when proximity sensors detect any ob
 <br>
 <br>
 
-<img src="readme-lib\FSM.png" alt="Logo" width="80%"/>
+<p align='center'>
+  <img src="readme-lib\FSM.png" alt="Finite Sate Machine Architecture" width="70%"/>
+</p>
 
 <br>
 
@@ -66,7 +68,9 @@ The control architecture is reactive and sequential. There are two feedback loop
 <br>
 <br>
 
-<img src="readme-lib\Sensor.png" alt="Logo" width="80%"/>
+<p align='center'>
+  <img src="readme-lib\Sensor.png" alt="Ground Sensors Orientation" width="60%"/>
+</p>
 
 <br>
 
@@ -84,7 +88,9 @@ In a closed loop line follower perception-action system, the central sensors are
 <br>
 <br>
 
-<img src="readme-lib\Line Follower Perception-Action Loop.png" alt="Logo" width="80%"/>
+<p align='center'>
+  <img src="readme-lib\Line Follower Perception-Action Loop.png" alt="Line Following Perception-Action Loop" width="70%"/>
+</p>
 
 <br>
 
@@ -98,7 +104,9 @@ The proximity sensors are utilized to track the obstacle in an obstacle avoidanc
 <br>
 <br>
 
-<img src="readme-lib\Obstacle Avoidance Perception-Action Loop.png" alt="Logo" width="80%"/>
+<p align='center'>
+  <img src="readme-lib\Obstacle Avoidance Perception-Action Loop.png" alt="Obstacle Avoidance Perception-Action Loop" width="70%"/>
+</p>
 
 <br>
 
